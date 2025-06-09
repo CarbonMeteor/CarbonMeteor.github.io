@@ -1,6 +1,6 @@
 # CarbonMeteor的个人博客 :link: https://CarbonMeteor.github.io 
-### :page_facing_up: [22](https://CarbonMeteor.github.io/tag.html) 
+### :page_facing_up: [25](https://CarbonMeteor.github.io/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 52949 
-### :alarm_clock: 2025-04-15 07:42:50 
+### :hibiscus: 66565 
+### :alarm_clock: 2025-06-10 07:20:32 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
